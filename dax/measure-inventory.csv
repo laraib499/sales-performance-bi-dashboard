@@ -1,0 +1,23 @@
+measure_or_field,visible_in_report,formula_available_in_pdf,notes
+Sales,Yes,No,Displayed as $112.878282M; underlying table and column names are not shown
+Average Sales,Yes,No,Displayed as 16.86K; aggregation and filter context are not exposed
+Quantity,Yes,No,Displayed as 502K; page 8 detail total is 501669
+Order Returns,Yes,No,Displayed as 1K; source field and calculation are not exposed
+Ship Mode,Yes,No,Displayed as 3; likely a category count but exact DAX is unavailable
+Total Customers,Yes,No,Displayed as 782; distinct-count logic cannot be confirmed from PDF
+Sum of Cost,Yes,No,Displayed as 1M; source field and table names are not exposed
+Profit,Yes,No,Displayed as 79.95M; calculation is not exposed
+Regions,Yes,No,Displayed as 4; exact counting logic is not exposed
+Total Orders,Yes,No,Displayed as 7K; unique order key and logic are not exposed
+Expense,Yes,No,Displayed as 75M; source field and calculation are not exposed
+Total Categories,Yes,No,Displayed as 3; exact counting logic is not exposed
+Target,Yes,No,Displayed as $71.083497M; target source and aggregation are not exposed
+Difference,Yes,No,Actual vs Budget table displays 41,794,785; underlying DAX is not exposed
+RT Sales,Yes,No,Shown in Sales Parameter selector; formula unavailable
+MTD Sales,Yes,No,Shown in Sales Parameter selector; formula unavailable
+QTD Sales,Yes,No,Shown in Sales Parameter selector; formula unavailable
+YTD Sales,Yes,No,Shown in Sales Parameter selector; formula unavailable
+Last-Day-Sales,Yes,No,Shown in Sales Parameter selector; formula unavailable
+Last-Month-Sales,Yes,No,Shown in Sales Parameter selector; formula unavailable
+Last-Quarter-Sales,Yes,No,Shown in Sales Parameter selector; formula unavailable
+Last-Year-Sales,Yes,No,Shown in Sales Parameter selector; formula unavailable
