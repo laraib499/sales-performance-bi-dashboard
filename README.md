@@ -5,7 +5,7 @@ An interactive **Microsoft Power BI** dashboard project exploring retail sales, 
 **Author:** Laraib Farhan  
 **Platform:** Microsoft Power BI Desktop  
 **Dataset period shown:** 2022–2024  
-**Business context:** ABC Retail
+
 
 ## Project overview
 
