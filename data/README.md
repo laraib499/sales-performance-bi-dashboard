@@ -1,5 +1,9 @@
-# Source data
+# Data files
 
-The supplied dashboard export covers 2022–2024 and shows retail dimensions such as category, sub-category, segment, ship mode, region, year, quarter, month, day, city, sales and quantity.
+Files extracted from the supplied nine-page PDF report:
 
-The original source dataset is not included in this repository. Add it only if its licence and confidentiality terms permit redistribution. Document its source, field definitions, transformations and known limitations. Never commit confidential or customer-identifiable data.
+- `dashboard-kpi-summary.csv` — KPI cards and report totals.
+- `region-sales-summary.csv` — four region sales figures and displayed percentages.
+- `actual-vs-budget-monthly-extract.csv` — monthly rows visible in the Actual vs Budget table, plus its total row.
+
+**Source limitation:** These are report-output extracts, not the original transaction-level source dataset. The PDF does not include the original Excel/CSV data or full model. The monthly extract contains the rows visible in the PDF only, not every month. KPI rounding may differ from detailed totals (for example, Quantity is shown as 502K while the detailed table reads 501,669). Do not treat these extracts as the original source data.
