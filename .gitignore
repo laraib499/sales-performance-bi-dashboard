@@ -1,0 +1,17 @@
+# Power BI temporary and backup files
+*.tmp
+*.bak
+*.pbit
+
+# Private/local source data
+data/private/
+data/raw/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
