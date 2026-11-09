@@ -1,0 +1,18 @@
+metric,displayed_value,unit,source_page,notes
+Sales,112878282,USD,2,Dashboard headline value
+Average Sales,16860,USD,2,Displayed as 16.86K
+Quantity,502000,units,2,Displayed as 502K; page 8 total is 501669
+Order Returns,1000,orders,2,Displayed as 1K
+Ship Mode,3,count,2,Count of ship modes
+Total Customers,782,customers,2,Dashboard headline value
+Sum of Cost,1000000,USD,2,Displayed as 1M
+Profit,79950000,USD,2,Displayed as 79.95M
+Regions,4,count,2,Dashboard headline value
+Total Orders,7000,orders,2,Displayed as 7K
+Expense,75000000,USD,2,Displayed as 75M
+Total Categories,3,count,2,Dashboard headline value
+Target,71083497,USD,2,Dashboard headline value
+Sales,112878282,USD,3,Actual vs Budget total row
+Target,71083497,USD,3,Actual vs Budget total row
+Difference,41794785,USD,3,Sales less target as displayed
+Quantity,501669,units,8,Detailed data page total
