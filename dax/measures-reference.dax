@@ -1,0 +1,34 @@
+/*
+SALES PERFORMANCE & BUSINESS INTELLIGENCE DASHBOARD
+DAX MEASURE REFERENCE
+
+IMPORTANT:
+The supplied PDF is a static report export. It does not contain the
+original DAX expressions, model table names, column names, or relationships.
+The entries below are the measure names visible in the report, not reconstructed
+formulas. Replace this reference with expressions exported from the original PBIX.
+
+Visible measure names:
+- Sales
+- Average Sales
+- Quantity
+- Order Returns
+- Sum of Cost
+- Profit
+- Sum of Profit
+- Expense
+- Total Customers
+- Total Orders
+- Target
+- Difference
+- RT Sales
+- MTD Sales
+- QTD Sales
+- YTD Sales
+- Last-Day-Sales
+- Last-Month-Sales
+- Last-Quarter-Sales
+- Last-Year-Sales
+
+Do not paste guessed expressions here and describe them as the original model.
+*/
